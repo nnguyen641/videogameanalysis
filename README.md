@@ -18,4 +18,4 @@ Ensuring data integrity was also a priority, so I handled missing values, encode
 
 Ultimately, this comprehensive approach allowed me to extract meaningful insights into publisher influence, market segmentation, and critical reception trends, providing a deeper understanding of the video game industry.
 
-Please see the FinalProject_NN.ipynb file to view the details and findings report. 
+Please see the [FinalProject_NN.ipynb](https://github.com/nnguyen641/videogameanalysis/blob/main/FinalProject_NN.ipynb) file to view the details and findings report. 
